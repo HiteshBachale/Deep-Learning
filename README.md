@@ -1,8 +1,6 @@
 
 # Deep Learning: Overview
 
-Deep Learning
-
 📌 What is Deep Learning?
 
 Deep Learning is a subset of Machine Learning (ML) that focuses on training artificial neural networks with multiple layers (hence "deep"). It enables computers to automatically learn representations from large amounts of data without relying heavily on manual feature engineering. Inspired by the human brain, deep learning models can recognize patterns, classify data, and make decisions with minimal human intervention.
